@@ -1,0 +1,16 @@
+---
+title: "Research" 
+---
+
+My research focuses on the application of spatial data, specifically that from earth observation (e.g. satellites) to inform and integrate sustainability into urban decision making. All the research I participate in revolves around an applied output that can be actioned upon by stakeholders, such as local governments, to improve the socio-physical urban environment. My primary published work has demonstrated the benefits of remotely sensing data in consistently monitoring urban land (or expansion) and being able to mitigate the urban heat island effect – a critical 21st century challenge that is often not included within global climate models or local planning guidance. Now, I work on any project that uses spatial data and geographical information science.
+
+### Working papers
+
+-   Closing the gap: a spatially targeted approach to water point rehabilitation in Tanzania. 32nd Annual GIS Research UK Conference (GISRUK), University of Leeds, Leeds, UK. <https://doi.org/10.5281/zenodo.10926688>. Led by [Sophie Ayling](https://blogs.worldbank.org/en/team/s/sophie-ayling).
+
+
+-   Hybrid radiative transfer models reduce bias in hyperspectral leaf area index and chlorophyll retrievals over forest and row-structured vineyard canopies. Led by [Luke Brown](https://www.salford.ac.uk/our-staff/luke-brown). [<i class="fa-regular fa-champagne-glasses"></i> **Now published!** <i class="fa-regular fa-champagne-glasses"></i>](https://www.mdpi.com/2072-4292/16/12/2066)
+
+### Published work
+
+All my work is open access. Instead of a massive list here check the usual places [<i class="ai ai-google-scholar-square ai-lg"></i>](https://scholar.google.com/citations?user=wLrJwyQAAAAJ&hl=en) or [<i class="ai ai-orcid ai-lg"></i>](https://orcid.org/0000-0003-0356-1623)

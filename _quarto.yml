@@ -1,0 +1,55 @@
+project:
+  type: website
+execute:
+  freeze: auto
+  
+website:
+  title: "Claude Lynch"
+  favicon: assets/favicon2.png
+  page-navigation: true
+  back-to-top-navigation: true
+  open-graph: true
+
+# https://quarto.org/docs/websites/
+  
+  navbar:
+    background: danger
+    left:
+        - text: About
+          aria-label: "About Me"
+          href: about.qmd
+        - text: Research
+          aria-label: "Research"
+          href: research.qmd
+        - text: Portfolio
+          aria-label: "Portfolio"
+          href: portfolio.qmd      
+        - text: CV
+          aria-label: "CV"
+          href: CV.qmd
+
+
+  page-footer:  
+    left: >-
+     &#169; 2024 Claude Lynch
+    center: |
+    
+      [{{< fa brands github >}}](https://github.com/siskiyoucedar)	
+      [{{< fa envelope >}}](mailto:claude.lynch.15@ucl.ac.uk)
+      [{{< fa brands x-twitter >}}](https://claudelynch.bsky.social)
+
+    right: 
+      Made with [Quarto](https://quarto.org)
+
+
+format:
+  html:
+    theme: cosmo
+    css: 
+    - styles.css
+    - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+
+    toc: true
+
+editor: visual
+

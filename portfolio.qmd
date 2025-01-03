@@ -1,0 +1,61 @@
+---
+title: "Viz"
+#date: 2024-02-24
+# title-block-banner: "#771C6D"
+lightbox: true
+
+format: 
+  html: 
+    page-layout: full
+
+# comments: 
+#   utterances:
+#     repo: andrewmaclachlan/website
+---
+
+A selection of visualisations with links to code and papers. Click on the images for a gallery view.
+
+::: grid
+::: {#me-1 .g-col-6}
+## Brighton 
+
+Outputs were made to support reviewing the change in Brighton school catchment areas.
+
+#### Geofacet grid
+
+![Geofacet grid of number of 11 year olds per MSOA in Brighton. Red line denotes the median value for the study area. Data source/packages: nomisr, gridmappr and geofacet [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/brighton_schools)](Research/images/Brighton_MSOA_aged_11.png){group="my-gallery"}
+
+#### Shiny application 
+
+[<i class="fa-solid fa-link"></i>](https://amaclachlan.shinyapps.io/Brighton_school_children_catchments/) [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/brighton_schools)
+
+<p align="center"><iframe src="https://amaclachlan.shinyapps.io/Brighton_school_children_catchments/" data-external="1" width="550px" height="800px">
+</iframe></p>
+
+
+
+## UK and Spain
+
+![True colour composite airborne hyperspectral mosaics collected during the Wytham Woods 2021 (top left), Wytham Woods 2018 (middle left), and Valencia Anchor Station 2017 (bottom left) campaigns, in addition to the location of the elementary sampling units (ESUs) in which in situ LAI and LCC measurements were performed (middle), and the location of each study site (right) [<i class="ai ai-open-access"></i>](https://www.mdpi.com/2072-4292/16/12/2066) [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/LAI-radiative-transfer-models-figure)](Research/images/study_area_luke.png){group="my-gallery"}
+
+:::
+
+::: {#me-2 .g-col-6}
+
+## Tanzania
+
+![In progress](Research/images/study_area2_tanzania.png){group="my-gallery"}
+
+## South Africa
+
+![COVID-19 reported cases (A) and deaths (B) in relation to the South African alert plan and contextual information on COVID-19 variants. Data source: COVID-19 Data Hub [<i class="ai ai-open-access"></i>](https://www.mdpi.com/2071-1050/15/3/1853) [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/CCT)](Research/images/sustainability-15-01853-g001.png){group="my-gallery"}
+
+## Perth, Western Australia
+
+![Three-dimensional city models (top row) and average annual mean radiant temperature (Tmrt) overlays (bottom row) for subsets of two SA1 locations representing low-density (cul-de-sac in Currambine) and high-density (infill site in Subiaco) developments. [<i class="ai ai-open-access "></i>](https://www.frontiersin.org/articles/10.3389/fbuil.2020.519599/full)](Research/images/fbuil-06-519599-g002.jpg){group="my-gallery"}
+
+![Average annual temperature using the original urban footprint, proposed redevelopment plans, and proposed plans with optimal tree placement. Also indicated are the average annual minimum, mean, and maximum mean radiant temperature with color-coded circles for each urban footprint scenario. The proposed redevelopment constitutes increased building height and variation across the site enlarging shading potential, reducing site mean radiant temperature compared to the original urban area. [<i class="ai ai-open-access"></i>](https://www.frontiersin.org/articles/10.3389/fbuil.2020.519599/full)](Research/images/fbuil-06-519599-g004.jpg){group="my-gallery"}
+:::
+:::
+
+<!-- end grid -->

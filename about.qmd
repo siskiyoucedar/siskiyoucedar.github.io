@@ -1,0 +1,91 @@
+---
+title: ""
+subtitle: ""
+
+  
+format: 
+  html: 
+    toc: false
+    page-layout: full
+---
+
+## Hi there
+::: grid
+::: {#me-1 .g-col-6}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(leaflet)
+library(readxl)
+
+data <- read_excel("places.xlsx")
+
+
+places <- leaflet(height=400, width=750) %>% 
+  addProviderTiles(providers$CartoDB.PositronNoLabels) %>% 
+  setView(lng = 70, lat = 9, zoom = 2) %>% 
+  addCircleMarkers(data = data,
+                   lng = ~Long,
+                   lat = ~Lat,
+                   color = 'midnightblue',
+                   popup = ~Time,
+                   group = 'Undergraduate') 
+places
+
+
+```
+
+:::
+
+::: {#me-2 .g-col-6}
+My expertise lies in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science...
+
+> "A jack of all trades is a master of none, ***but oftentimes better than a master of one**"*
+
+I teach, develop courses, conduct research and apply / maintain a variety of student funding and accreditation. All of which you'll find on this site! R is my language of choice, but I also use PostGIS and Google Earth Engine.
+
+During my academic career I've been fortunate to study, present at conferences and conduct fieldwork across the world. See where using this map and come ask me about it!
+
+
+:::
+:::
+
+## Qualifications
+
+::: grid
+::: {#me-1 .g-col-6}
+
+<ul>{{< fa graduation-cap >}} [PhD Geography and Environmental Science](https://eprints.soton.ac.uk/432276/) ∙ University of Southampton ∙ 2019</ul>
+
+<ul>{{< fa graduation-cap >}} MSc Applied GIS and Remote Sensing (Distinction) ∙ University of Southampton ∙ 2014</ul>
+
+<ul>{{< fa graduation-cap >}} BA Human Geography (First Class Honours) ∙ The University of Sheffield ∙ 2013</ul>
+:::
+
+::: {#me-2 .g-col-6}
+<ul>{{< fa certificate >}} Fellow of the Higher Education Academy (FHEA) ∙ University College London ∙ 2020</ul>
+
+<ul>{{< fa certificate >}} Associate Fellow of the Higher Education Academy (AFHEA) ∙ University of Southampton ∙ 2016</ul>
+
+:::
+:::
+
+<!-- end grid -->
+
+## Media
+
+Occasionally I've been recorded talking about our cities, data, sustainability and our MSc.  
+
+::: grid
+::: {#me-1 .g-col-6}
+
+<ul> <i class="fa-solid fa-video"></i> [UCL Lunch Hour Lecture: Earth Observation for Planning Sustainable Cities](https://www.youtube.com/watch?v=Rm77JXodreE) ∙ 2019</ul>
+:::
+
+::: {#me-2 .g-col-6}
+
+<ul> <i class="fa-solid fa-video"></i> [CASA Urban Spatial Science intro](https://www.youtube.com/watch?v=b7kKL2wbsT4) ∙ 2022</ul>
+
+:::
+:::
+
+<!-- end grid -->

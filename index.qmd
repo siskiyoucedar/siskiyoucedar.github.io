@@ -1,0 +1,25 @@
+---
+title: "Claude Lynch"
+subtitle: "PhD Candidate, Video Essayist, Critical Geographer"
+image: assets/gsphoto.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+::: {#hero-heading}
+I'm a PhD candidate at the Centre for Advanced Spatial Analysis (CASA), UCL.
+
+My priority as an academic is to create and encourage research with application, that allows theory in geography to touch practice, and inform the way institutions, governments and social movements engage with ideas of space and place. Within this, my PhD project aims to understand how simulations from transport models are best applied to regional political contexts. My research interests sit across critical GIS, with a focus on transport justice and the right to the city.  
+
+[{{< fa brands github size=lg >}}](https://github.com/siskiyoucedar) [{{< fa envelope size=lg >}}](mailto:claude.lynch.15@ucl.ac.uk)[{{< fa brands x-twitter size=lg >}}](https://claudelynch.bsky.social)
+
+[More about me](about.qmd){.about-links .subtitle}
+:::

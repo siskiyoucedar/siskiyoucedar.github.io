@@ -1,0 +1,22 @@
+---
+title: "Teach"
+description: | 
+                This is a collection of my open University module resources, including UCL and Oxford. Workshops and guest presentations are elsewhere. **Icons provide access to the materials** (e.g.<i class="ai ai-open-materials ai"></i>)
+                
+listing:
+ # id: sample-listings
+  contents: 
+    - "Teach/*/*.qmd"
+#    - archived-items.yaml
+  sort: "date desc"
+  type: default
+  categories: false
+ # sort-ui: true
+#  filter-ui: true
+  fields: [image, title, author, date, description, categories, reading-time]
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+---

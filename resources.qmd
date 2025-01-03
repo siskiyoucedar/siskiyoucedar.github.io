@@ -1,0 +1,60 @@
+---
+title: "Resources"
+subtitle: ""
+
+format: 
+  html: 
+    toc: false
+    page-layout: full
+---
+
+Here is a complete list of all my recent resources including: conference presentations/papers, online teaching material and code for publications/figures. 
+
+
+```{r echo = FALSE, warning=FALSE, message=FALSE}
+library(gt)
+library(tidyverse)
+library(readxl)
+library(gtExtras)
+
+resources <- read_excel("resources.xlsx")
+
+gt_tbl <- resources %>%
+  mutate(Title = sprintf('<a href = "%s">%s</a>', 
+                        URL,Title), 
+         Title = map(Title, gt::html)) %>%
+  # dplyr::mutate(icon1 = case_when(Type == "Lecture" ~ "person-chalkboard",
+  #                               Type == "Workbook"~ "book"))%>%
+  select(-URL, - Resource, -Type, -Module)%>%
+  gt() %>%
+  fmt_icon(Icon)%>%
+  cols_align(
+  align = "center",
+  columns = Icon)%>%
+  opt_row_striping()%>%
+   cols_width(
+    Title ~ px(600),
+    #everything() ~ px(60)
+  )%>%
+opt_interactive(active = TRUE,
+  use_pagination = TRUE,
+  use_pagination_info = TRUE,
+  use_sorting = TRUE,
+  use_search = FALSE,
+  use_filters = TRUE,
+  use_resizers = TRUE,
+  use_highlight = TRUE,
+  use_compact_mode = TRUE,
+  use_text_wrapping = TRUE,
+  use_page_size_select = TRUE,
+  page_size_default = 20,
+  page_size_values = c(25, 50, 100),
+  pagination_type = c("numbers", "jump", "simple")
+)
+
+# Show the gt Table
+gt_tbl
+
+
+```
+

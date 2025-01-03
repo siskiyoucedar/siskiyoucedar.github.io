@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "viz.html",
+    "href": "viz.html",
+    "title": "Viz",
+    "section": "",
+    "text": "A selection of visualisations with links to code and papers. Click on the images for a gallery view."
+  },
+  {
+    "objectID": "viz.html#tanzania",
+    "href": "viz.html#tanzania",
+    "title": "Viz",
+    "section": "Tanzania",
+    "text": "Tanzania\n\n\n\nIn progress"
+  },
+  {
+    "objectID": "viz.html#uk-and-spain",
+    "href": "viz.html#uk-and-spain",
+    "title": "Viz",
+    "section": "UK and Spain",
+    "text": "UK and Spain\n\n\n\nIn progress"
+  },
+  {
+    "objectID": "viz.html#south-africa",
+    "href": "viz.html#south-africa",
+    "title": "Viz",
+    "section": "South Africa",
+    "text": "South Africa\n\n\n\nCOVID-19 reported cases (A) and deaths (B) in relation to the South African alert plan and contextual information on COVID-19 variants. Data source: COVID-19 Data Hub"
+  },
+  {
+    "objectID": "viz.html#perth-western-australia",
+    "href": "viz.html#perth-western-australia",
+    "title": "Viz",
+    "section": "Perth, Western Australia",
+    "text": "Perth, Western Australia\n\n\n\nThree-dimensional city models (top row) and average annual mean radiant temperature (Tmrt) overlays (bottom row) for subsets of two SA1 locations representing low-density (cul-de-sac in Currambine) and high-density (infill site in Subiaco) developments. \n\n\n\n\n\nAverage annual temperature using the original urban footprint, proposed redevelopment plans, and proposed plans with optimal tree placement. Also indicated are the average annual minimum, mean, and maximum mean radiant temperature with color-coded circles for each urban footprint scenario. The proposed redevelopment constitutes increased building height and variation across the site enlarging shading potential, reducing site mean radiant temperature compared to the original urban area."
+  },
+  {
+    "objectID": "Teach/MSc Modelling for Global Health/Spatial Analysis of Public Health Data.html",
+    "href": "Teach/MSc Modelling for Global Health/Spatial Analysis of Public Health Data.html",
+    "title": "Spatial Analysis of Public Health Data",
+    "section": "",
+    "text": "We will introduce different types of spatial data, such as point-level and areal data, and understand that these data types require different analytical approaches. We will understand the need to apply statistical approaches that account for spatial dependence, and cover a range of methods of increasing complexity, such as spatial regression, geostatistical models for point level data and conditional autoregressive models for areal data. The students will need a statistical background and familiarity with linear regression techniques and familiarity with programming in R.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Teach/CASA0023/CASA0023.html",
+    "href": "Teach/CASA0023/CASA0023.html",
+    "title": "CASA0023 Remotely Sensing Cities and Environments",
+    "section": "",
+    "text": "Firstly, the module presents an overview of the core concepts, methods and practices used to pre-process imagery underlying the discipline. Building upon this, the content focuses on advanced methodologies to extract meaning from Earth observation data and combinations of spatial data. It will examine and provide specific applied examples of achievable local, national and international policy modifications to incorporate spatial data and analytical requirements allowing data-driven optimisation of resources, maximising investment, environmental and sustainability outcomes. The module has a large practical component that is primarily taught in the R data science programming language but will briefly cover some specialist tools such as opensource geographic information systems software and cloud computing. Students will gain an operational knowledge of Earth observation data that can be drawn upon in future research or employment. The practical book for the module is available online for more detail on weekly content, however this can change annually.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Teach/CASA0005/CASA0005.html",
+    "href": "Teach/CASA0005/CASA0005.html",
+    "title": "CASA0005 Geographic Information Systems and Science",
+    "section": "",
+    "text": "The presents an overview of the core organising concepts and techniques of Geographic Information Systems, and the software and analysis systems that are integral to their effective deployment in spatial analysis. It is concerned with unearthing and understanding the importance of spatial data in a range of contexts. The module is designed to have a large practical component in order that students can use the latest software and techniques to analyse and infer from contemporary datasets. It is taught predominantly in the R data science programming language, but also covers some basic concepts in QGIS. The intention is that students will complete the course with a broad knowledge of spatial analysis which they can draw on for their dissertation and further study or employment. No prior knowledge of GIS or the R data science language is required, but the module moves quickly from basic tools to advanced GIS methodologies. The practical book for the module is available online for more detail on weekly content, however this can change annually.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here is a complete list of all my recent resources including: conference presentations/papers, online teaching material and code for publications/figures.\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Media.html",
+    "href": "Media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Urban Spatial Science promotional video\n\n\n\nAndrew MacLachlan\n\n\nAug 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUCL Lunch Hour Lecture: Earth Observation for Planning Sustainable Cities\n\n\n\nAndrew MacLachlan\n\n\nNov 19, 2019\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "Media/Lunch hour lecture.html",
+    "href": "Media/Lunch hour lecture.html",
+    "title": "UCL Lunch Hour Lecture: Earth Observation for Planning Sustainable Cities",
+    "section": "",
+    "text": "Urban areas are expected to triple by 2030 to accommodate 60% of the global population. Anthropogenic landscape modifications expand coverage of impervious surfaces inducing the Urban Heat Island effect; a critical 21st century challenge associated with increased economic expenditure, energy consumption and adverse health impacts. Yet omission of UHI measures from global climate models and planning guidance precludes effective sustainable development. We present a data-driven planning process for urban monitoring and heat mitigation that will enhance the future sustainability of our cities to align with current global development agendas.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV is data driven through the vitae package\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Andy MacLachlan",
+    "section": "",
+    "text": "My expertise lies in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science…\n\n“A jack of all trades is a master of none, but oftentimes better than a master of one”\n\nI teach, develop courses, conduct research and apply / maintain a variety of student funding and accreditation. All of which you’ll find on this site! R is my language of choice, but I also use PostGIS and Google Earth Engine.\nDuring my academic career I’ve been fortunate to study, present at conferences and conduct fieldwork across the world. See where using this map and come ask me about it!"
+  },
+  {
+    "objectID": "about.html#hi-there",
+    "href": "about.html#hi-there",
+    "title": "Andy MacLachlan",
+    "section": "",
+    "text": "My expertise lies in remote sensing, although in recent years this has expanded to any project using spatial data and geographical information science…\n\n“A jack of all trades is a master of none, but oftentimes better than a master of one”\n\nI teach, develop courses, conduct research and apply / maintain a variety of student funding and accreditation. All of which you’ll find on this site! R is my language of choice, but I also use PostGIS and Google Earth Engine.\nDuring my academic career I’ve been fortunate to study, present at conferences and conduct fieldwork across the world. See where using this map and come ask me about it!"
+  },
+  {
+    "objectID": "about.html#qualifications",
+    "href": "about.html#qualifications",
+    "title": "Andy MacLachlan",
+    "section": "Qualifications",
+    "text": "Qualifications\n\n\n\n PhD Geography and Environmental Science ∙ University of Southampton ∙ 2019\n\n\n MSc Applied GIS and Remote Sensing (Distinction) ∙ University of Southampton ∙ 2014\n\n\n BA Human Geography (First Class Honours) ∙ The University of Sheffield ∙ 2013\n\n\n\n\n Fellow of the Higher Education Academy (FHEA) ∙ University College London ∙ 2020\n\n\n Associate Fellow of the Higher Education Academy (AFHEA) ∙ University of Southampton ∙ 2016"
+  },
+  {
+    "objectID": "about.html#media",
+    "href": "about.html#media",
+    "title": "Andy MacLachlan",
+    "section": "Media",
+    "text": "Media\nOccasionally I’ve been recorded talking about our cities, data, sustainability and our MSc.\n\n\n\n UCL Lunch Hour Lecture: Earth Observation for Planning Sustainable Cities ∙ 2019\n\n\n\n\n CASA Urban Spatial Science intro ∙ 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andy MacLachlan",
+    "section": "",
+    "text": "I’m an academic in the Centre for Advanced Spatial Analysis (CASA), University College London (UCL).\nI am driven in my career to have meaningful real world impact on the sustainability of our cities and empower students to become leading activists in urban spatial science. I take pride in my ability to explain complex problems in a simple manner, and in doing so, create an inclusive learning environment in which everyone can participate, contribute and excel.\n    \nLearn more about me →\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Media/Promo.html",
+    "href": "Media/Promo.html",
+    "title": "Urban Spatial Science promotional video",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on the application of spatial data, specifically that from earth observation (e.g. satellites) to inform and integrate sustainability into urban decision making. All the research I participate in revolves around an applied output that can be actioned upon by stakeholders, such as local governments, to improve the socio-physical urban environment. My primary published work has demonstrated the benefits of remotely sensing data in consistently monitoring urban land (or expansion) and being able to mitigate the urban heat island effect – a critical 21st century challenge that is often not included within global climate models or local planning guidance. Now, I work on any project that uses spatial data and geographical information science.\n\nWorking papers\n\nClosing the gap: a spatially targeted approach to water point rehabilitation in Tanzania. 32nd Annual GIS Research UK Conference (GISRUK), University of Leeds, Leeds, UK. https://doi.org/10.5281/zenodo.10926688. Led by Sophie Ayling.\nHybrid radiative transfer models reduce bias in hyperspectral leaf area index and chlorophyll retrievals over forest and row-structured vineyard canopies. Led by Luke Brown.\n\n\n\nPublished work\nAll my work is open access. Instead of a massive list here check the usual places  or \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "study.html",
+    "href": "study.html",
+    "title": "Andy MacLachlan",
+    "section": "",
+    "text": "I’m accepting PhD applicants on topics using geographic information systems and/or Earth observation including:\n\nCity sustainability\nSafety in the built environment\nUrban design and mental well-being\nApplications of accessibility and transport networks (using new tools such as R5R)\nEnvironmental / social / political equity (e.g. urban heat islands and redlining)\nApplied urban research using big spatial data tools (e.g. DuckDB, PostGIS or Google Earth Engine)\n\n\n\nEmmanuel Farinre “The Mental Health of Individuals and Neighbourhoods & Victims and Perpetrators of Violence. Where do we Intervene”.\n\n\n\nDr Matthew Ng “Analysing Urban Growth in Brunei: a focus on land-use, accessibility, and policy”."
+  },
+  {
+    "objectID": "study.html#sec-phd",
+    "href": "study.html#sec-phd",
+    "title": "Andy MacLachlan",
+    "section": "",
+    "text": "I’m accepting PhD applicants on topics using geographic information systems and/or Earth observation including:\n\nCity sustainability\nSafety in the built environment\nUrban design and mental well-being\nApplications of accessibility and transport networks (using new tools such as R5R)\nEnvironmental / social / political equity (e.g. urban heat islands and redlining)\nApplied urban research using big spatial data tools (e.g. DuckDB, PostGIS or Google Earth Engine)\n\n\n\nEmmanuel Farinre “The Mental Health of Individuals and Neighbourhoods & Victims and Perpetrators of Violence. Where do we Intervene”.\n\n\n\nDr Matthew Ng “Analysing Urban Growth in Brunei: a focus on land-use, accessibility, and policy”."
+  },
+  {
+    "objectID": "study.html#mscmres-study",
+    "href": "study.html#mscmres-study",
+    "title": "Andy MacLachlan",
+    "section": "MSc/MRes study",
+    "text": "MSc/MRes study\nI’m the MSc/MRes Urban Spatial Science programme leader. The programme equips students with a multi-disciplinary and critical perspective on approaches to understanding, monitoring and improving global urban resilience and sustainability through the use of data. Taught content explores the theoretical, social and scientific foundations of the modern built environment through a geo-spatial, data-oriented lens. Learn more about the MSc/MRes Urban Spatial Science →\n\nPast students\n\n\n\nStudent\nResearch\nGitHub\nAward\n\n\nYi-Chien Chen\nExploring the distribution of town centre accessibility through sustainable modes; A data-informed approach to London’s sustainable transport strategy\n\n\n\n\nLorena Brambila Cantu\nA gendered approach to understanding pedestrians’ perception of safety and the built environment; A case study of London\n\n\n\n\nLoubna Sasso\nExploring areas of upgrade based on the 15-minute city concept – A case study of London\n\n2022 Society For Location Analysis Masters Award\n\n\nSigne Swarttouw\nExploring the distribution of urban building carbon emissions; A spatial approach to Westminster’s decarbonisation strategy\n\n2021 Royal Geographical Society Planning and Environment\n\n\nCheyne Campbell\nTaking Steps Towards Pedestrian Safety: A Case Study of Charlotte, North Carolina\n\n2020 Royal Geographical Society Planning and Environment"
+  },
+  {
+    "objectID": "study.html#scholarships",
+    "href": "study.html#scholarships",
+    "title": "Andy MacLachlan",
+    "section": "Scholarships",
+    "text": "Scholarships\nI apply and maintain a range of scholarship funding for our MSc, including:\n\nOffice for Students Conversion Course funding (CASA Urban Futures)\nCommonwealth Shared Scholarship Scheme"
+  },
+  {
+    "objectID": "Teach/CASA0010/CASA0010.html",
+    "href": "Teach/CASA0010/CASA0010.html",
+    "title": "CASA0010 Dissertation",
+    "section": "",
+    "text": "Resources:\n\nStudying for a dissertation:  \nThesis study:  \n\nModule information\nStudents will be required to plan the research and dissertation from an early stage with ongoing development building on both projects and taught courses developed through the year. The research topic will be defined under the guidance of the student’s dissertation supervisor and with the support of the Programme Director. The aim is to produce a unique, individual piece of work with an emphasis on data collection, analysis and visualisation linked to policy and social science orientated applications.\nStudents may have an opportunity to collaborate with industry partners in this module.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Teach/Indian Institute of Technology Hyderabad/IIT Hyderabad.html",
+    "href": "Teach/Indian Institute of Technology Hyderabad/IIT Hyderabad.html",
+    "title": "Critical interrogations of the digital urban in India",
+    "section": "",
+    "text": "Workshop:  \nLecture:  \n\nThis workshop was funded by a 2023 UCL global engagement grant led by Dr Pushpa Arabindoo in collaboration with Dr Haripriya Narasimhan\nAbbreviated flyer:\n\nIs the digital really ubiquitous to the urban and is the language of the digital overwhelmingly reshaping debates about contemporary cities? It is true that, as a global norm, cities across the North and South are becoming technologically embedded via a range of digital infrastructure from mobile social media and platforms, networks of sensors, and a vast ecology of connected devices referred to as the Internet of Things. As a result, the urban has become a key site through which an incredible amount of data is produced and extracted with policymakers and politicians relying more and more on data analytics to order, pattern, and structure the complexity of urban life. A new set of programmes and practices are being put in place intent on this mode of realisation, starting with e-governance and ICT-led development schemes to the promotion of intelligent cities and smart urbanism. With sensors, dashboards, data platforms and command and control rooms, the urban is now known through data, algorithms, modelling and a combination of visual and media channels. This new urban knowledge requires specialist techniques of analysis and visualisation, one that approaches the urban as a ‘system science’.\n\n\nThis one-day workshop is open to postgraduate students across a range of disciplines from the engineering to social sciences. Led by Dr Pushpa Arabindoo and Dr Andrew Maclachlan from University College London, UK in collaboration with Dr Haripriya Narasimhan from Indian Institute of Technology Hyderabad, a large part of the day will be devoted to running ‘data analytic’ exercises in groups encouraging you to explore Hyderabad through a suite of dynamic, interactive and user-friendly visualisation/mapping while simultaneously reflecting on where data is collected from, how is it ‘calculated’ and ‘communicated’.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "teach.html",
+    "href": "teach.html",
+    "title": "Teach",
+    "section": "",
+    "text": "CASA0005 Geographic Information Systems and Science\n\n\n\n\n\n\nGIS\n\n\ndata science\n\n\npoint patterns\n\n\nspatial modelling\n\n\nR\n\n\nMSc\n\n\nUCL\n\n\n\nThe purpose of this module is to equip students with an understanding of the principles underlying the conception, representation/measurement and analysis of spatial phenomena.\n\n\n\n\n\nAndrew MacLachlan and Adam Dennett\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nCASA0010 Dissertation\n\n\n\n\n\n\ntemplates\n\n\ndissertation\n\n\nsupervision\n\n\nMSc\n\n\nUCL\n\n\n\nBetween 2019 and 2021 I led the CASA dissertation module and I continue to supervise students annually. It is based around the writing and preparation of an original research project in the form of a Master’s Dissertation.\n\n\n\n\n\nAndrew MacLachlan\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\n\n\n\n\n\n\nGoogle Earth Engine\n\n\nEarth observation\n\n\nmachine learning\n\n\nR\n\n\nMSc\n\n\nUCL\n\n\n\nThis module will enable students to operationalise remotely sensed Earth observation data for informing decisions on environmental hazards arising from a changing climate, specifically in relation to (a) urban areas and (b) future urban sustainability\n\n\n\n\n\nAndrew MacLachlan\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nCritical interrogations of the digital urban in India\n\n\n\n\n\n\nQGIS\n\n\nDigital urban\n\n\nworkshop\n\n\nIITH\n\n\n\nDigital urban workshop at IIT Hyderabad introducing spatial data, QGIS and basic operataions such as spatial joins and spatial subsets.\n\n\n\n\n\nAndrew MacLachlan, Pushpa Arabindoo, Haripriya Narasimhan\n\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Analysis of Public Health Data\n\n\n\n\n\n\nGIS\n\n\nHealth\n\n\nData Science\n\n\nR\n\n\nMSc\n\n\nOxford\n\n\n\nMuch of the data encountered in public health studies has a spatial dimension. The aim is to cover statistical approaches that can be used to make inferences and predictions from spatial data of the kind encountered in epidemiological analyses.\n\n\n\n\n\nAndrew MacLachlan and guests!\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  }
+]

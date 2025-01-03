@@ -1,0 +1,23 @@
+---
+title: "Critical interrogations of the digital urban in India"
+author: Andrew MacLachlan, Pushpa Arabindoo, Haripriya Narasimhan
+description: Digital urban workshop at IIT Hyderabad introducing spatial data, QGIS and basic operataions such as spatial joins and spatial subsets. 
+image: points_outside_study_area.png
+categories: [QGIS, Digital urban, workshop, IITH]
+slug: Digital urban workshop
+---
+
+* Workshop: [<i class="ai ai-open-materials"></i>](https://andrewmaclachlan.github.io/digital-urban-hyderabad/) [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/digital-urban-hyderabad)
+
+* Lecture: [<i class="fa-solid fa-person-chalkboard"></i>](https://andrewmaclachlan.github.io/digital-urban-hyderabad-lecture/Pedagogic%20Challenges%202%20Urban%20Systems%20Science.html#/title-slide) [<i class="fa-brands fa-github"></i>](https://github.com/andrewmaclachlan/digital-urban-hyderabad-lecture)
+
+This workshop was funded by a 2023 UCL global engagement grant led by [Dr Pushpa Arabindoo](https://www.ucl.ac.uk/geography/pushpa-arabindoo) in collaboration with [Dr Haripriya Narasimhan](https://www.iith.ac.in/la/haripriya/) 
+
+Abbreviated flyer:
+
+> Is the digital really ubiquitous to the urban and is the language of the digital overwhelmingly reshaping debates about contemporary cities? It is true that, as a global norm, cities across the North and South are becoming technologically embedded via a range of digital infrastructure from mobile social media and platforms, networks of sensors, and a vast ecology of connected devices referred to as the Internet of Things. As a result, the urban has become a key site through which an incredible amount of data is produced and extracted with policymakers
+and politicians relying more and more on data analytics to order, pattern, and structure the complexity of urban life. A new set of programmes and practices are being put in place intent on this mode of realisation, starting with e-governance and ICT-led development schemes to the promotion of intelligent cities and smart urbanism. With sensors, dashboards, data platforms and command and control rooms, the urban is now known through data, algorithms, modelling and a combination of visual and media channels. This new urban knowledge requires specialist techniques of analysis and visualisation, one that approaches the
+urban as a ‘system science’. 
+
+> This one-day workshop is open to postgraduate students across a range of disciplines from the engineering to social sciences. Led by Dr Pushpa Arabindoo and Dr Andrew Maclachlan from University College London, UK in collaboration with Dr Haripriya Narasimhan from Indian Institute of Technology Hyderabad, a large part of the day will be devoted to running ‘data analytic’ exercises in groups encouraging you to explore Hyderabad through a suite of dynamic, interactive and user-friendly visualisation/mapping while simultaneously reflecting on where data is collected from, how is it ‘calculated’ and ‘communicated’.
+

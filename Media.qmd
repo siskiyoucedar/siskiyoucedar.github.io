@@ -1,0 +1,21 @@
+---
+title: "Media"
+listing:
+ # id: sample-listings
+  contents: 
+    - "Media/*.qmd"
+#    - archived-items.yaml
+  sort: "date desc"
+  type: grid
+  categories: false
+ # sort-ui: true
+#  filter-ui: true
+  fields: [title, author, date, image]
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+---
+
+
+

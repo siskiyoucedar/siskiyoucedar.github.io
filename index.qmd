@@ -1,7 +1,7 @@
 ---
-title: "Claude Lynch"
-subtitle: "PhD Candidate, Video Essayist, Critical Geographer"
-image: assets/gsphoto.png
+title: "Andy MacLachlan"
+subtitle: "Associate Professor in Spatial Data Science and Visualisation"
+image: assets/profile.jpg
 about:
   id: hero-heading
   template: trestles
@@ -15,11 +15,11 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
-I'm a PhD candidate at the Centre for Advanced Spatial Analysis (CASA), UCL.
+I'm an academic in the Centre for Advanced Spatial Analysis (CASA), University College London (UCL).
 
-My priority as an academic is to create and encourage research with application, that allows theory in geography to touch practice, and inform the way institutions, governments and social movements engage with ideas of space and place. Within this, my PhD project aims to understand how simulations from transport models are best applied to regional political contexts. My research interests sit across critical GIS, with a focus on transport justice and the right to the city.  
+I am driven in my career to have meaningful real world impact on the sustainability of our cities and empower students to become leading activists in urban spatial science. I take pride in my ability to explain complex problems in a simple manner, and in doing so, create an inclusive learning environment in which everyone can participate, contribute and excel.
 
-[{{< fa brands github size=lg >}}](https://github.com/siskiyoucedar) [{{< fa envelope size=lg >}}](mailto:claude.lynch.15@ucl.ac.uk)[{{< fa brands x-twitter size=lg >}}](https://claudelynch.bsky.social)
+[{{< fa brands github size=lg >}}](https://github.com/andrewmaclachlan) [{{< fa envelope size=lg >}}](mailto:a.maclachlan@ucl.ac.uk) [<i class="ai ai-google-scholar-square ai-lg"></i>](https://scholar.google.com/citations?user=wLrJwyQAAAAJ&hl=en) [<i class="ai ai-orcid ai-lg"></i>](https://orcid.org/0000-0003-0356-1623) [{{< fa brands x-twitter size=lg >}}](https://twitter.com/andymaclachlan)
 
-[More about me](about.qmd){.about-links .subtitle}
+[Learn more about me →](about.qmd){.about-links .subtitle}
 :::

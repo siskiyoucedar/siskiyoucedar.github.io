@@ -1,0 +1,12 @@
+---
+title: "CASA0005 Geographic Information Systems and Science"
+author: Andrew MacLachlan and Adam Dennett
+description: The purpose of this module is to equip students with an understanding of the principles underlying the conception, representation/measurement and analysis of spatial phenomena.
+image: getis_ord.png
+categories: [GIS, data science, point patterns, spatial modelling, R, MSc, UCL]
+slug: CASA0005
+---
+
+[<i class="ai ai-open-access ai-2x"></i>](https://jose.theoj.org/papers/10.21105/jose.00141) [<i class="ai ai-open-materials ai-2x"></i>](https://andrewmaclachlan.github.io/CASA0005repo/) [<i class="fa-brands fa-github fa-2x"></i>](https://github.com/andrewmaclachlan/CASA0005)
+
+The presents an overview of the core organising concepts and techniques of Geographic Information Systems, and the software and analysis systems that are integral to their effective deployment in spatial analysis. It is concerned with unearthing and understanding the importance of spatial data in a range of contexts. The module is designed to have a large practical component in order that students can use the latest software and techniques to analyse and infer from contemporary datasets. It is taught predominantly in the R data science programming language, but also covers some basic concepts in QGIS. The intention is that students will complete the course with a broad knowledge of spatial analysis which they can draw on for their dissertation and further study or employment. No prior knowledge of GIS or the R data science language is required, but the module moves quickly from basic tools to advanced GIS methodologies. The practical book for the module is [available online](https://andrewmaclachlan.github.io/CASA0005repo/) for more detail on weekly content, however this can change annually.

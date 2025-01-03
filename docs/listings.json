@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/Media.html",
+    "items": [
+      "/Media/Promo.html",
+      "/Media/Lunch hour lecture.html"
+    ]
+  },
+  {
+    "listing": "/teach.html",
+    "items": [
+      "/Teach/CASA0005/CASA0005.html",
+      "/Teach/CASA0010/CASA0010.html",
+      "/Teach/CASA0023/CASA0023.html",
+      "/Teach/Indian Institute of Technology Hyderabad/IIT Hyderabad.html",
+      "/Teach/MSc Modelling for Global Health/Spatial Analysis of Public Health Data.html"
+    ]
+  }
+]

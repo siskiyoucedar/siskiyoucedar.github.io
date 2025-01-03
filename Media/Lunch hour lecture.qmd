@@ -1,0 +1,13 @@
+---
+title: "UCL Lunch Hour Lecture: Earth Observation for Planning Sustainable Cities"
+author: Andrew MacLachlan
+date: 11/19/2019
+image: land_growth.png
+#categories: [GIS, data science, point patterns, spatial modelling, R, MSc, UCL]
+slug: UCL lunch hour lecture
+---
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rm77JXodreE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+Urban areas are expected to triple by 2030 to accommodate 60% of the global population. Anthropogenic landscape modifications expand coverage of impervious surfaces inducing the Urban Heat Island effect; a critical 21st century challenge associated with increased economic expenditure, energy consumption and adverse health impacts. Yet omission of UHI measures from global climate models and planning guidance precludes effective sustainable development. We present a data-driven planning process for urban monitoring and heat mitigation that will enhance the future sustainability of our cities to align with current global development agendas.

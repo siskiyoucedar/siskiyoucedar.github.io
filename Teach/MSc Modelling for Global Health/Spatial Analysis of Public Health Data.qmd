@@ -1,0 +1,15 @@
+---
+title: "Spatial Analysis of Public Health Data"
+author: Andrew MacLachlan and guests!
+description: Much of the data encountered in public health studies has a spatial dimension. The aim is to cover statistical approaches that can be used to make inferences and predictions from spatial data of the kind encountered in epidemiological analyses.
+image: NZ_education_coefficient.png
+categories: [GIS, Health, Data Science, R, MSc, Oxford]
+slug: Spatial Analysis of Public Health Data
+---
+
+[<i class="ai ai-open-materials ai-2x"></i>](https://andrewmaclachlan.github.io/spatial-analysis-of-public-health-data-24/)
+[<i class="fa-brands fa-github fa-2x"></i>](https://github.com/andrewmaclachlan/spatial-analysis-of-public-health-data-24)
+
+We will introduce different types of spatial data, such as point-level and areal data, and understand that these data types require different analytical approaches. We will understand the need to apply statistical approaches that account for spatial dependence, and cover a range of methods of increasing complexity, such as spatial regression, geostatistical models for point level data and conditional autoregressive models for areal data. The students will need a statistical background and familiarity with linear regression techniques and familiarity with programming in R.
+
+

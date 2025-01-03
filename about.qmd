@@ -27,23 +27,7 @@ More text goes in here...
 
 ## Qualifications
 
-::::: grid
-::: g-col-6
-<ul>{{< fa graduation-cap >}} [PhD Geography and Environmental Science](https://eprints.soton.ac.uk/432276/) ∙ University of Southampton ∙ 2019</ul>
-
-<ul>{{< fa graduation-cap >}} MSc Applied GIS and Remote Sensing (Distinction) ∙ University of Southampton ∙ 2014</ul>
-
-<ul>{{< fa graduation-cap >}} BA Human Geography (First Class Honours) ∙ The University of Sheffield ∙ 2013</ul>
-:::
-
-::: g-col-6
-<ul>{{< fa certificate >}} Fellow of the Higher Education Academy (FHEA) ∙ University College London ∙ 2020</ul>
-
-<ul>{{< fa certificate >}} Associate Fellow of the Higher Education Academy (AFHEA) ∙ University of Southampton ∙ 2016</ul>
-:::
-:::::
-
-<!-- end grid -->
+I have a master's and an AFHEA.
 
 ## Media
 

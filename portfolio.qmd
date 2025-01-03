@@ -1,0 +1,21 @@
+---
+title: "Portfolio"
+#date: 2025-03-01
+# title-block-banner: "#771C6D"
+lightbox: true
+
+format: 
+  html: 
+    page-layout: full
+
+# comments: 
+#   utterances:
+#     repo: siskiyoucedar/website
+---
+
+A selection of stuff with links to code and papers.
+
+::::: grid
+::: {#me-1 .g-col-6}
+
+<!-- end grid -->

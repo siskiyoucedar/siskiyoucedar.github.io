@@ -1,17 +1,13 @@
 ---
 title: "CV"
-date: 2024-06-11
+date: 2024-07-03
 # title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
-  pdf: "CV/AM_cv.pdf"
+  pdf: "CV/CV_2407.pdf"
 ---
-
-[<i class="fa-brands fa-github fa-2x"></i>](https://github.com/andrewmaclachlan/CV)
-
-My CV is data driven through the [vitae package](https://github.com/mitchelloharawild/vitae)
 
 ```{css, echo=FALSE}
 #title-block-header .description {
@@ -39,10 +35,6 @@ My CV is data driven through the [vitae package](https://github.com/mitchellohar
 }
 ```
 
-```{=html}
-
-
 <div class="embed-container">
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
-```

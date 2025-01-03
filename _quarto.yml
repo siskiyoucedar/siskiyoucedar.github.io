@@ -1,58 +1,35 @@
 project:
-  output-dir: docs
   type: website
 execute:
   freeze: auto
   
 website:
-  title: "Andy MacLachlan"
-  favicon: assets/favicon.ico
-  google-analytics: "G-HYCSXSDEHJ"
+  title: "Claude Lynch"
+  favicon: assets/favicon2.png
   page-navigation: true
   back-to-top-navigation: true
-  twitter-card: true
   open-graph: true
 
-
+# https://quarto.org/docs/websites/
   
   navbar:
-      tools:
-        - icon: github
-          href: https://www.github.com/andrewmaclachlan
-      right:
+    background: danger
+    left:
         - text: About
           aria-label: "About Me"
           href: about.qmd
-        - text: Teach
-          aria-label: "Teach"
-          href: teach.qmd
         - text: Research
           aria-label: "Research"
           href: research.qmd
-        - text: Resources
-          aria-label: "Resources"
-          href: resources.qmd
-        - text: Study with me
-          aria-label: "Study with me"
-          href: study.qmd
-        - text: Viz
-          aria-label: "Viz"
-          href: viz.qmd      
+        - text: Portfolio
+          aria-label: "Portfolio"
+          href: portfolio.qmd      
         - text: CV
           aria-label: "CV"
           href: CV.qmd
 
 
   page-footer:  
-    left: >-
-     &#169; 2024 Andy MacLachlan
-    center: |
-    
-      [{{< fa brands github >}}](https://github.com/andrewmaclachlan)	
-      [{{< fa envelope >}}](mailto:a.maclachlan@ucl.ac.uk)
-      [<i class="ai ai-google-scholar-square "></i>](https://scholar.google.com/citations?user=wLrJwyQAAAAJ&hl=en)
-      [<i class="ai ai-orcid "></i>](https://orcid.org/0000-0003-0356-1623)
-      [{{< fa brands x-twitter >}}](https://twitter.com/andymaclachlan)
 
     right: 
       Made with [Quarto](https://quarto.org)
@@ -60,9 +37,7 @@ website:
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: cosmo
     css: 
     - styles.css
     - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css

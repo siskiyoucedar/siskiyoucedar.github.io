@@ -7,7 +7,6 @@ about:
   template: trestles
   image-width: 15em
   image-shape: rounded
-
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}

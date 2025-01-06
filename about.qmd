@@ -7,28 +7,41 @@ format:
   html: 
     toc: false
     page-layout: full
+lightbox: true
 ---
 
-## WHAT ARE YOU DOING HERE
+## 'SOMETIMES EVEN FUNNY' - ANONYMOUS, 2019
 
 ::::: grid
 ::: {#me-1 .g-col-6}
-Something like an image could go here.
+::: {layout-nrow=2}
+
+![](assets/lisbon.jpg){width="49%"} ![](assets/soap.png){width="49%"}
+
+:::
 :::
 
 ::: {#me-2 .g-col-6}
-I'm mostly about....
+Maybe you're wondering why this website is called 'siskiyoucedar'. Long story short, in 2013 I bought a bar of soap with the same name. The syllables stuck with me, and so it goes.
 
-> "A quote would go here if you like"
+> 'A good way to rid one's self of a sense of discomfort is to do something. That uneasy, dissatisfied feeling is actual force vibrating out of order' - William Morris
 
-More text goes in here...
+Not to wildly pivot from soap to political praxis, but I think the driving force of academia is to show where meaningful change should be happening and help point society in that direction. For as long as science and politics are intertwined, we have to do our best to tip the scales in favour of those who need our help the most.
 :::
 :::::
 
 ## Qualifications
 
-I have a master's and an AFHEA.
+-   **PhD** Advanced Spatial Analysis, University College London, 2023-26
+
+-   **AFHEA** (Associate Fellow of the Higher Educational Academy), University College London, 2024
+
+-   **MA** Critical Theory, King's College London, 2021-22
+
+-   **BA** European Social and Political Studies, University College London, 2015-19
 
 ## Media
 
-Me in the news!
+You can visit my YouTube (yes, I know) [here](https://www.youtube.com/@edmundhyde).
+
+You can visit my blog [here](https://tepidtake.blogspot.com/), which also includes publications from elsewhere.

@@ -4,7 +4,7 @@ execute:
   freeze: auto
   
 website:
-  title: "Claude Lynch"
+  title: "**CLAUDE LYNCH**"
   favicon: assets/favicon2.png
   page-navigation: true
   back-to-top-navigation: true
@@ -13,15 +13,15 @@ website:
 # https://quarto.org/docs/websites/
   
   navbar:
-    background: danger
+    background: primary
     left:
-        - text: About
+        - text: ABOUT
           aria-label: "About Me"
           href: about.qmd
-        - text: Research
+        - text: RESEARCH
           aria-label: "Research"
           href: research.qmd
-        - text: Portfolio
+        - text: PORTFOLIO
           aria-label: "Portfolio"
           href: portfolio.qmd      
         - text: CV
@@ -37,7 +37,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: 
     - styles.css
     - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css

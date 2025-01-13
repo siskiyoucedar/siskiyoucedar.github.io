@@ -15,7 +15,25 @@ format:
 
 A selection of stuff with links to code and papers.
 
-::::: grid
+:::::::: grid
 ::: {#me-1 .g-col-6}
+![Gentry-fication: how aristocratic are London's streets?](assets/19_names_final_2.png){fig-align="center"}
+:::
+
+::: {#me-2 .g-col-6}
+![Blur vs Oasis: the North-South Divide of Album Tours](assets/21_final.png){fig-align="center"}
+:::
+
+::: {#me-3 .g-col-6}
+![Skippers: where are the ticket barriers?](assets/17_collab.png){fig-align="center"}
+:::
+
+::: {#me-4 .g-col-6}
+![PhD work: details of England's STBs](assets/grants%20and%20populations.png)
+:::
+
+::: {#me-5 .g-col-6}
+:::
+::::::::
 
 <!-- end grid -->

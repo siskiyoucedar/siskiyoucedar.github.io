@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -148,11 +151,56 @@ ul.task-list li input[type="checkbox"] {
 <p>A selection of stuff with links to code and papers.</p>
 <div class="grid">
 <div id="me-1" class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/19_names_final_2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Gentry-fication: how aristocratic are London’s streets?"><img src="assets/19_names_final_2.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Gentry-fication: how aristocratic are London’s streets?"></a></p>
+</figure>
+</div>
+<figcaption>Gentry-fication: how aristocratic are London’s streets?</figcaption>
+</figure>
+</div>
+</div>
+<div id="me-2" class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/21_final.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Blur vs Oasis: the North-South Divide of Album Tours"><img src="assets/21_final.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Blur vs Oasis: the North-South Divide of Album Tours"></a></p>
+</figure>
+</div>
+<figcaption>Blur vs Oasis: the North-South Divide of Album Tours</figcaption>
+</figure>
+</div>
+</div>
+<div id="me-3" class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/17_collab.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Skippers: where are the ticket barriers?"><img src="assets/17_collab.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Skippers: where are the ticket barriers?"></a></p>
+</figure>
+</div>
+<figcaption>Skippers: where are the ticket barriers?</figcaption>
+</figure>
+</div>
+</div>
+<div id="me-4" class="g-col-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/grants and populations.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="PhD work: details of England’s STBs"><img src="assets/grants and populations.png" class="img-fluid figure-img" alt="PhD work: details of England’s STBs"></a></p>
+<figcaption>PhD work: details of England’s STBs</figcaption>
+</figure>
+</div>
+</div>
+<div id="me-5" class="g-col-6">
+
+</div>
+</div>
 <!-- end grid -->
 
 
-</div>
-</div>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -589,6 +637,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","selector":".lightbox","loop":false,"openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

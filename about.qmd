@@ -12,14 +12,12 @@ lightbox: true
 
 ## 'SOMETIMES EVEN FUNNY' - ANONYMOUS, 2019
 
-::::: grid
-::: {#me-1 .g-col-6}
-::: {layout-nrow=2}
-
+:::::: grid
+:::: {#me-1 .g-col-6}
+::: {layout-nrow="2"}
 ![](assets/lisbon.jpg){width="49%"} ![](assets/soap.png){width="49%"}
-
 :::
-:::
+::::
 
 ::: {#me-2 .g-col-6}
 Maybe you're wondering why this website is called 'siskiyoucedar'. Long story short, in 2013 I bought a bar of soap with the same name. The syllables stuck with me, and so it goes.
@@ -28,7 +26,7 @@ Maybe you're wondering why this website is called 'siskiyoucedar'. Long story sh
 
 Not to wildly pivot from soap to political praxis, but I think the driving force of academia is to show where meaningful change should be happening and help point society in that direction. For as long as science and politics are intertwined, we have to do our best to tip the scales in favour of those who need our help the most.
 :::
-:::::
+::::::
 
 ## Qualifications
 

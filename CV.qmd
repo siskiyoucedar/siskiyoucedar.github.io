@@ -1,7 +1,7 @@
 ---
 title: "CV"
+title-prefix: "Claude's Pages"
 date: 2024-07-03
-# title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr
 freeze: false

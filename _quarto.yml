@@ -16,8 +16,8 @@ website:
     background: primary
     left:
         - text: ABOUT
-          aria-label: "About Me"
-          href: about.qmd
+          aria-label: "About"
+          href: About.qmd
         - text: RESEARCH
           aria-label: "Research"
           href: research.qmd

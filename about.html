@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -109,6 +112,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./CV.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./quizzes.html"> 
+<span class="menu-text">QUIZZES</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -131,18 +138,20 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="sometimes-even-funny---anonymous-2019">‘SOMETIMES EVEN FUNNY’ - ANONYMOUS, 2019</h2>
 <div class="grid">
 <div id="me-1" class="g-col-6">
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
-<p><img src="assets/lisbon.jpg" class="img-fluid" style="width:49.0%"> <img src="assets/soap.png" class="img-fluid" style="width:49.0%"></p>
-</div>
-</div>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><a href="assets/lisbon.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/lisbon.jpg" class="img-fluid quarto-figure quarto-figure-right figure-img" style="width:75.0%"></a></p>
+</figure>
 </div>
 </div>
 <div id="me-2" class="g-col-6">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="assets/soap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/soap.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:75.0%"></a></p>
+</figure>
+</div>
+</div>
+<div id="me-3" class="g-col-12">
 <p>Maybe you’re wondering why this website is called ‘siskiyoucedar’. Long story short, in 2013 I bought a bar of soap with the same name. The syllables stuck with me, and so it goes.</p>
 <blockquote class="blockquote">
 <p>‘A good way to rid one’s self of a sense of discomfort is to do something. That uneasy, dissatisfied feeling is actual force vibrating out of order’ - William Morris</p>
@@ -150,6 +159,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Not to wildly pivot from soap to political praxis, but I think the driving force of academia is to show where meaningful change should be happening and help point society in that direction. For as long as science and politics are intertwined, we have to do our best to tip the scales in favour of those who need our help the most.</p>
 </div>
 </div>
+<!-- end grid -->
 </section>
 <section id="qualifications" class="level2">
 <h2 class="anchored" data-anchor-id="qualifications">Qualifications</h2>
@@ -603,6 +613,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

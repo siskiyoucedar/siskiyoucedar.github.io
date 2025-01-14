@@ -17,19 +17,19 @@ A selection of stuff with links to code and papers.
 
 :::::::: grid
 ::: {#me-1 .g-col-6}
-![Gentry-fication: how aristocratic are London's streets?](assets/19_names_final_2.png){fig-align="center"}
+![Gentry-fication: how aristocratic are London's streets?](assets/19_names_final_2.png){fig-align="center" width="100%"}
 :::
 
 ::: {#me-2 .g-col-6}
-![Blur vs Oasis: the North-South Divide of Album Tours](assets/21_final.png){fig-align="center"}
+![Blur vs Oasis: the North-South Divide of Album Tours](assets/21_final.png){fig-align="center" width="100%"}
 :::
 
-::: {#me-3 .g-col-6}
-![Skippers: where are the ticket barriers?](assets/17_collab.png){fig-align="center"}
+::: {#me-3 .g-col-5}
+![Skippers: where are the ticket barriers?](assets/17_collab.png){fig-align="center" width="100%"}
 :::
 
-::: {#me-4 .g-col-6}
-![PhD work: details of England's STBs](assets/grants%20and%20populations.png)
+::: {#me-4 .g-col-7}
+![PhD work: details of England's STBs](assets/grants%20and%20populations.png){width="100%"}
 :::
 
 ::: {#me-5 .g-col-6}

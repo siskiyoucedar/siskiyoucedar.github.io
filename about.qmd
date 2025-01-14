@@ -12,14 +12,15 @@ lightbox: true
 
 ## 'SOMETIMES EVEN FUNNY' - ANONYMOUS, 2019
 
-:::::: grid
-:::: {#me-1 .g-col-6}
-::: {layout-nrow="2"}
-![](assets/lisbon.jpg){width="49%"} ![](assets/soap.png){width="49%"}
-:::
-::::
 
+:::::: grid
+::: {#me-1 .g-col-6}
+![](assets/lisbon.jpg){fig-align="right" width="75%"}
+:::
 ::: {#me-2 .g-col-6}
+![](assets/soap.png){fig-align="left" width="75%"}
+:::
+::: {#me-3 .g-col-12}
 Maybe you're wondering why this website is called 'siskiyoucedar'. Long story short, in 2013 I bought a bar of soap with the same name. The syllables stuck with me, and so it goes.
 
 > 'A good way to rid one's self of a sense of discomfort is to do something. That uneasy, dissatisfied feeling is actual force vibrating out of order' - William Morris
@@ -27,7 +28,7 @@ Maybe you're wondering why this website is called 'siskiyoucedar'. Long story sh
 Not to wildly pivot from soap to political praxis, but I think the driving force of academia is to show where meaningful change should be happening and help point society in that direction. For as long as science and politics are intertwined, we have to do our best to tip the scales in favour of those who need our help the most.
 :::
 ::::::
-
+<!-- end grid -->
 ## Qualifications
 
 -   **PhD** Advanced Spatial Analysis, University College London, 2023-26

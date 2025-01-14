@@ -1,0 +1,19 @@
+---
+title: "I will host your quiz" 
+---
+
+::::: grid
+::: {#me-1 .g-col-5}
+I am an experienced quiz host and writer. I worked as part of [Treehouse Quizzes](https://www.facebook.com/treehousequizzes/) for a year, hosting across North & East London and writing both full quizzes and bonus rounds. More recently, I have provided music quizzes on a freelance basis for Audio Network and their clients.
+
+My specialty is to weave a touch of comedy into the traditional quiz format. Expect tenuous links, unexpected themes, and many cases of 'is this real or did I make it up?'
+
+If you'd be interested in a quiz, [**get in touch with me**](mailto:claudelynch96@gmail.com) and we can talk options. I can provide everything, except venue and A/V. I'm comfortable writing quizzes on any theme!
+:::
+
+::: {#me-2 .g-col-7}
+![](assets/quiz.png){width="90%"}
+:::
+:::::
+
+<!-- end grid -->

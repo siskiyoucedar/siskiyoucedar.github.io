@@ -2,7 +2,7 @@
 title: "Research" 
 ---
 
-### From One Angle
+### The GISt of what I do
 
 My research has a broad focus. As a PhD candidate, I have a fair few side projects ongoing; to quote one of my interview subjects, '*I'm dippin' and dappin*' *and I don't know what's happening*'. You can see the repositories for those side projects on my [Github](https://github.com/siskiyoucedar), but by way of outline:
 

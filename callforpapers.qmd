@@ -1,0 +1,67 @@
+---
+title: "RGS-IBG 2025"
+title-prefix: "Claude's Pages"
+lightbox: true
+
+format: 
+  html: 
+    page-layout: full
+---
+
+### Sponsored PGR Sessions at AC2025!
+
+This year’s RGS-IBG Annual Conference will be held in sunny Birmingham from 26-29 August, with the theme *Geographies of Creativity.*
+
+TGRG are running two sessions aimed at **postgraduate students** and are designed to be accessible, open spaces to share your thinking. There’s a prize to be won as well for the best presentation. The session titles are:
+
+1.  Creative approaches to transport research
+
+2.  Current and emerging research in transport
+
+**Please do feel free to share this widely with any students working in the transport / mobilities space** that you think might be interested.
+
+To apply to either session, please submit the following information **by email** to the session convenors by **Friday 21 February**.
+
+-   Title of the presentation
+-   Authors, affiliations, and email addresses
+-   Presenter (in-person)
+-   Abstract (up to 300 words)
+
+**Session convenors:**
+
+Claude Lynch, UCL, [claude.lynch.15\@ucl.ac.uk](mailto:claude.lynch.15@ucl.ac.uk)
+
+Lluis Martinez Ramirez, Vrije Universiteit Brussel, [lluis.martinez.ramirez\@vub.be](mailto:Lluis.Martinez.Ramirez@vub.be)
+
+Patrick Miner, University of Edinburgh, [patrick.miner\@ed.ac.uk](mailto:patrick.miner@ed.ac.uk)
+
+## 1. Creative approaches to transport research
+
+We invite abstract submissions from **postgraduate students** for the 2025 Royal Geographical Society with IBG (RGS-IBG) Annual International Conference for the session titled “**Creative approaches to transport research**”. This session is sponsored by the Transport Geography Research Group (TGRG). 
+
+![](images/creative%202.jpg){fig-align="center" width="75%"}
+
+**Session convenors:**
+
+The session is aimed at postgraduate students conducting research in any aspect of transport geography. In the TGRG, we respond to the theme of this year’s conference by considering how transport geographers can think creatively: through creative methods, applications, or solutions in transport. Find below some suggestions for approaching this topic: 
+
+-   Artistic and narrative techniques (e.g., storytelling, creative mapping).
+-   Interdisciplinary research or mixed methods.
+-   Participatory and inclusive research (e.g. community engagement, citizen science).
+-   Possible or speculative transport futures.
+-   Eco-centric and non-human perspectives (e.g. animal geographies, biodiversity in relation to transport).
+-   Critical theories of transport (rethinking theories or developing new ones).
+
+The session also welcomes presentations in any strand of transport geography that are *presented* in a creative manner—for example, using multimedia or interactive elements.
+
+The TGRG traditionally rewards a postgraduate prize for the best postgraduate presentation in any TGRG session at the RGS-IBG Conference. All postgraduate presentations in the “Creative approaches to transport research” session will automatically be eligible for the prize; if you do not want to be considered for the prize, please state so in your submission.
+
+## 2. Current and emerging research in transport
+
+We invite abstract submissions from **postgraduate students** for the 2025 Royal Geographical Society with IBG (RGS-IBG) Annual International Conference for two sessions titled “**Current and emerging research in transport**”. These sessions are sponsored by the Transport Geography Research Group (TGRG). 
+
+![](images/creative%203.jpg){fig-align="center" width="75%"}
+
+The sessions are aimed at postgraduate students conducting research in **any aspect of transport geography**. The emerging research sessions provide a relaxed, supportive atmosphere for postgraduates at any stage of their research to present work in progress and share ideas with one another.
+
+The TGRG traditionally rewards a postgraduate prize for the best postgraduate presentation in any TGRG session at the RGS-IBG Conference. All postgraduate presentations in the “Current and emerging research in transport” session will automatically be eligible for the prize; if you do not want to be considered for the prize, please state so in your submission.

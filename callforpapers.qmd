@@ -14,9 +14,9 @@ This year’s RGS-IBG Annual Conference will be held in sunny Birmingham from 26
 
 TGRG are running two sessions aimed at **postgraduate students** and are designed to be accessible, open spaces to share your thinking. There’s a prize to be won as well for the best presentation. The session titles are:
 
-1.  Creative approaches to transport research
+[**1. Creative approaches to transport research**]{.text-primary}
 
-2.  Current and emerging research in transport
+[**2. Current and emerging research in transport**]{.text-secondary}
 
 **Please do feel free to share this widely with any students working in the transport / mobilities space** that you think might be interested.
 

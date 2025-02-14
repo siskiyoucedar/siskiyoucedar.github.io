@@ -3,9 +3,7 @@
   "result": {
     "engine": "knitr",
     "markdown": "---\ntitle: \"Claude Lynch\"\ntitle-prefix: \"Homepage\"\nsubtitle: \"PhD Candidate, Video Essayist, Critical Geographer\"\nimage: assets/gsphoto.png\nabout:\n  id: main-bit\n  template: broadside\n  image-width: 12em\n  image-shape: rectangle\n---\n\n\n\n\n\n::: {#main-bit}\nI'm a researcher at UCL's Centre for Advanced Spatial Analysis.\n\nMy priority as an academic is to create and encourage research with application, that allows theory in geography to touch practice, and inform the way institutions, governments and social movements engage with ideas of space and place. Within this, my PhD project aims to understand how simulations from transport models are best applied to regional political contexts. My research interests sit across **critical GIS**, with a focus on **transport justice** and **regional politics**.\n\n[{{< fa brands github size=lg >}}](https://github.com/siskiyoucedar) [{{< fa envelope size=lg >}}](mailto:claude.lynch.15@ucl.ac.uk) [{{< fa cloud size=lg >}}](https://claudelynch.bsky.social)\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
